@@ -1,0 +1,4 @@
+Codex/
+  Characters/
+  Locations/
+  Items/

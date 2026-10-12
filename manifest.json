@@ -1,0 +1,9 @@
+{
+  "id": "storyline-codex-highlighter",
+  "name": "StoryLine Codex Highlighter",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Highlights names and aliases found in StoryLine Codex notes.",
+  "author": "idonutk",
+  "isDesktopOnly": false
+}

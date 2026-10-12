@@ -1,0 +1,9 @@
+{
+  "storylineFolder": "StoryLine",
+  "charactersColor": "#82b0d4",
+  "locationsColor": "#80ed99",
+  "itemsColor": "#fbd298",
+  "customTermColors": {
+    "em's apartment": "#ff4d6d"
+  }
+}

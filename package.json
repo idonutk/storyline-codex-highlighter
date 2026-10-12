@@ -1,0 +1,19 @@
+{
+  "name": "storyline-codex-highlighter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@codemirror/state": "^6.7.6",
+    "@codemirror/view": "^6.43.13",
+    "esbuild": "^0.25.0",
+    "typescript": "^5.8.0",
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "obsidian": "latest"
+  }
+}   
